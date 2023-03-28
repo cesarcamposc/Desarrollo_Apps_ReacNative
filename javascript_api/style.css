@@ -1,0 +1,25 @@
+table{
+    text-align: center;
+    position: relative;
+    border-collapse: collapse;
+    background-color: azure;
+}
+
+td,th{
+    border: 1px solid #0b9599;
+    padding: 20px;
+}
+
+th{
+    background: #6e0b99;
+    color: white;
+    border-radius: 1px;
+    top: 0;
+}
+
+tbody > tr:hover{
+    background-color: darkorange;
+}
+
+
+
