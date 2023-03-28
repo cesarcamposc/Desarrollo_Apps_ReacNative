@@ -1,0 +1,42 @@
+body{
+    background: #e9ff33;
+}
+
+div{
+    width: 30%;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background: white;
+}
+
+#a{
+    background: #95a5a6;
+    color: #95a5a6;
+}
+
+#b{
+    background: #3498db;
+    color: #3498db;
+}
+
+#c{
+    background: #f1c40f;
+    color: #f1c40f;
+}
+
+#d{
+    background: #9b59b6;
+    color: #9b59b6;
+}
+
+#e{
+    background: #2ecc71;
+    color: #2ecc71;
+}
+
+#f{
+    background: #7f8c8d;
+    color: #7f8c8d;
+}
