@@ -1,0 +1,40 @@
+body{
+    background: blueviolet;
+}
+
+.todo-container{
+
+    background: aqua;
+    width: 50vw;
+    margin: 10px auto;
+    border-radius: 15px;
+    padding: 20px 10px;
+    border: 3px solid rgb(40, 100, 190)
+}
+
+.task{
+    border: 2px solid white;
+    border-radius: 3px;
+    padding: 0.5 em;
+    margin: 0.5 em;
+}
+
+.task button{
+    background: rgb(54, 138, 241);
+    border-radius: 5px;
+    margin: 0px 5px;
+    padding: 5px 5px;
+}
+
+.header{
+    margin: 0.5 em;
+    font-size: 2 em;
+    text-align: center;
+}
+
+.create-task{
+    margin: 10px 15px;
+    width: 80%;
+    outline: none;
+    border: none;
+}
